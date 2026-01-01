@@ -1,11 +1,11 @@
 ---
 layout: page
-title: SYLLABUS POLICIES -- Spring 2026
+title: SYLLABUS POLICIES - Spring 2026
 ---
 
-# DEPARTMENT OF MATHEMATICS AND STATISTICS <br> NORTHERN ARIZONA UNIVERSITY
+<!-- # DEPARTMENT OF MATHEMATICS AND STATISTICS <br> NORTHERN ARIZONA UNIVERSITY
 
-## SYLLABUS POLICIES -- Spring 2026
+## SYLLABUS POLICIES -- Spring 2026 -->
 
 ### Course Pre-requisites and Placement
 Prior toenrollment in a course in the Department, a student must have completed the course prerequisites or have proper placement for the course. It is the student's responsibility to check that they are properly enrolled in a course and to drop the course if they are not. Failure to do so could result in the student receiving no credit for the course. The department may cancel student's registration in a course in which they are not properly enrolled. It is students' responsibility to monitor their own enrollment.
