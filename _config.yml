@@ -3,7 +3,7 @@ title: Department of Mathematics and Statistics
 tagline: Northern Arizona University
 url: 'http://NAUMathStat.github.io'
 paginate: 1
-baseurl: 'DoMS-Misc'
+baseurl: '/DoMS-Misc'
 permalink: pretty
 
 # Gems
