@@ -1,10 +1,10 @@
 ---
 layout: page
-title: SYLLABUS POLICIES - Spring 2026
+title: Spring 2026 Syllabus Policies
 ---
 
 <center>
-<img src="{{ site.baseurl }}/DoMSLogo.png" class="img-responsive img-rounded" img style="margin-bottom: 10px" width="90%"/>
+<img src="{{ site.baseurl }}/DoMSLogo.png" class="img-responsive img-rounded" img style="margin-bottom: 0px" width="95%"/>
 </center>
 
 ### Course Prerequisites and Placement
