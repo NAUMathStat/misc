@@ -4,8 +4,10 @@ title: Spring 2026 Syllabus Policies
 ---
 
 <center>
-<img src="{{ site.baseurl }}/DoMSLogo.png" class="img-responsive img-rounded" alt="Decorative department logo" img style="margin-top: 5px" width="100%"/>
+<img src="{{ site.baseurl }}/DoMSLogo.png" class="img-responsive" alt="Decorative department logo" img style="margin-top: 5px" width="100%"/>
 </center>
+
+![Decorative department logo](DoMSLogo.png)
 
 ### Course Prerequisites and Placement
 Prior to enrollment in a course in the Department, a student must have completed the course prerequisites or have proper placement for the course. It is the student's responsibility to check that they are properly enrolled in a course and to drop the course if they are not. Failure to do so could result in the student receiving no credit for the course. The department may cancel student's registration in a course in which they are not properly enrolled. It is students' responsibility to monitor their own enrollment.
