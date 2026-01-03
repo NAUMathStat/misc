@@ -4,7 +4,7 @@ title: Spring 2026 Syllabus Policies
 ---
 
 <center>
-<img src="{{ site.baseurl }}/DoMSLogo.png" class="img-responsive img-rounded" alt="Decorative department logo" img style="margin-bottom: 0px" width="100%"/>
+<img src="{{ site.baseurl }}/DoMSLogo.png" class="img-responsive img-rounded" alt="Decorative department logo" img style="margin-top: 5px" width="100%"/>
 </center>
 
 ### Course Prerequisites and Placement
