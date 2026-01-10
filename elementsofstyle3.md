@@ -108,12 +108,15 @@ your proofs.
     proof.
 
 12. **Write strings of equalities (or inequalities) in the proper
-    order.** When your reader sees something like $$A=B\leq C=D,$$ they
-    expect to understand easily why $A=B$, why $B\leq C$, and why $C=D$,
+    order.** When your reader sees something like
+    \\[A=B\leq C=D,//]
+    they expect to understand easily why $A=B$, why $B\leq C$, and why $C=D$,
     and they expect the point of the entire line to be the more
     complicated fact that $A\leq D$. For example, if you were computing
     the distance $d$ of the point $(12,5)$ from the origin, you could
-    write $$d = \sqrt{12^2+5^2} = 13.$$ In this string of equalities,
+    write
+    \\[d = \sqrt{12^2+5^2} = 13.//]
+    In this string of equalities,
     the first equals sign is true by the Pythagorean theorem, the second
     is just arithmetic, and the conclusion is that the first item equals
     the last item: $d=13$.
@@ -130,14 +133,16 @@ your proofs.
 
 14. **Do not write the proof backwards.** Beginning students often
     attempt to write "proofs" like the following, which attempts to
-    prove that $\tan^2(x)  = \sec^2(x) - 1$: $$\begin{align*}
+    prove that $\tan^2(x)  = \sec^2(x) - 1$:
+    \\[\begin{align*}
     \tan^2(x) & = \sec^2(x) - 1 \\
     \left(\frac{\sin(x)}{\cos(x)}\right)^2 & = \frac{1}{\cos^2(x)} - 1 \\
     \frac{\sin^2(x)}{\cos^2(x)} & =  \frac{1-\cos^2(x)}{\cos^2(x)} \\
     \sin^2(x) & = 1-\cos^2(x) \\
     \sin^2(x) + \cos^2(x) & = 1 \\
     1 & = 1
-    \end{align*}$$ Notice what has happened here: the student *started*
+    \end{align*}\\]
+    Notice what has happened here: the student *started*
     with the conclusion, and deduced the true statement "$1=1$." In
     other words, they have proved "If $\tan^2(x) = \sec^2(x) - 1$, then
     $1=1$," which is true but highly uninteresting.
@@ -149,14 +154,14 @@ your proofs.
 
     Here is an example of a suitable proof for the desired result, where
     each expression follows from the one immediately proceeding it:
-    $$\begin{align*}
+    \\[\begin{align*}
     \sec^2(x) - 1 & = \frac{1}{\cos^2(x)} - 1\\
     & = \frac{1-\cos^2(x)}{\cos^2(x)} \\
     & = \frac{\sin^2(x)}{\cos^2(x)} \\
     & = \left(\frac{\sin(x)}{\cos(x)}\right)^2 \\
     & = \left(\tan(x)\right)^2 \\
     & = \tan^2(x).
-    \end{align*}$$
+    \end{align*}//]
 
 15. **Be concise.** Many beginning proof writers err by writing their
     proofs too short, so that the reader cannot understand their logic.
@@ -196,8 +201,7 @@ your proofs.
     concluded with the previous subproof and have moved onto a new
     subproof.
 
-19. **Do not "prove by example."**[]{#pfbyexample label="pfbyexample"}
-    Most problems ask you to prove that something is true "for
+19. **Do not "prove by example."** Most problems ask you to prove that something is true "for
     all"---You *cannot* prove this by giving a single example, or even a
     hundred. Your proof will need to be a logical argument that holds
     for *every example there possibly could be*.
@@ -228,9 +232,7 @@ your proofs.
 22. **Do not include examples in proofs.** Including an example very
     rarely adds anything to your proof. If your logic is sound, then it
     does not need an example to back it up. If your logic is bad, a
-    dozen examples will not help it (see
-    Guideline [\[pfbyexample\]](#pfbyexample){reference-type="ref"
-    reference="pfbyexample"}). There are only two valid reasons to
+    dozen examples will not help it (see Item 19). There are only two valid reasons to
     include an example in a proof: if it is a *counterexample*
     disproving something, or if you are performing complicated
     manipulations in a general setting and the example is just to help
