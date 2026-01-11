@@ -13,7 +13,7 @@ your proofs.
     reader who does not believe you, so you need to argue with airtight
     logic in crystal clear language; otherwise the reader will continue
     to doubt. If you did not write something on the paper, then (a) you
-    did not communicate it,(b) the reader did not learn it, and (c) the
+    did not communicate it, (b) the reader did not learn it, and (c) the
     grader has to assume you did not know it in the first place.
 
 2.  **Tell the reader what you are proving or citing.** The reader does
